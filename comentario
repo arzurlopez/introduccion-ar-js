@@ -1,0 +1,17 @@
+<!-- <a-box position="0 0.5 0" 
+        material="color: red;"
+        animation="property: rotation;
+         to: 0 360 0; 
+         loop: true; 
+         dur: 4000"
+         >
+        </a-box> -->
+
+
+        echo "# introduccion-ar-js" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/arzurlopez/introduccion-ar-js.git
+git push -u origin main
