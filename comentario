@@ -15,3 +15,8 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/arzurlopez/introduccion-ar-js.git
 git push -u origin main
+
+
+ https://arzurlopez.github.io/introduccion-ar-js/
+
+ https://arzurlopez.github.io/introduccion-ar-js/
